@@ -9,14 +9,13 @@ It demonstrates **CRUD operations**, **JSON data storage**, and **modular Python
 Features
 
 | Feature | Description |
-|----------|-------------|
-| ➕ **Add Student** | Add a new student to the system |
-| 📋 **View All Students** | Display all student records |
-| 🔍 **View Student by ID** | Find and view one student by their unique ID |
-| ✏️ **Update Student** | Edit student details |
-| 🗑️ **Delete Student** | Remove a student record |
-| 💾 **Data Persistence** | All data saved automatically in  |
-| 🪵 **Logging** | Logs every action to ` |
+| Add Student** | Add a new student to the system |
+| View All Students** | Display all student records |
+| View Student by ID** | Find and view one student by their unique ID |
+| Update Student** | Edit student details |
+| Delete Student** | Remove a student record |
+| Data Persistence** | All data saved automatically in  |
+| Logging** | Logs every action to ` |
 
 
 
