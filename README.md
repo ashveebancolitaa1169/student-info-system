@@ -1,16 +1,12 @@
-# 🎓 Student Information System (MIDTERM Project)
+ Student Information System (MIDTERM Project)
 
-A **Python console-based Student Information System** that allows you to **add, view, update, and delete student records** — with JSON data persistence and activity logging.
+A Python console-based Student Information System** that allows you to **add, view, update, and delete student records  with JSON data persistence and activity logging.
 
----
 
-## 🧠 Project Overview
+ Project Overview
 This project was created as part of a Midterm Exam requirement.  
 It demonstrates **CRUD operations**, **JSON data storage**, and **modular Python architecture** following clean coding practices.
-
----
-
-## 🚀 Features
+Features
 
 | Feature | Description |
 |----------|-------------|
@@ -19,10 +15,8 @@ It demonstrates **CRUD operations**, **JSON data storage**, and **modular Python
 | 🔍 **View Student by ID** | Find and view one student by their unique ID |
 | ✏️ **Update Student** | Edit student details |
 | 🗑️ **Delete Student** | Remove a student record |
-| 💾 **Data Persistence** | All data saved automatically in `data/students.json` |
-| 🪵 **Logging** | Logs every action to `logs/app.log` |
+| 💾 **Data Persistence** | All data saved automatically in  |
+| 🪵 **Logging** | Logs every action to ` |
 
----
 
-## 🏗️ Project Structure
 
