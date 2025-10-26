@@ -1,4 +1,4 @@
- Student Information System (MIDTERM Project)
+ Student Information System (MIDTERM EXAM)
 
 A Python console-based Student Information System** that allows you to **add, view, update, and delete student records  with JSON data persistence and activity logging.
 
